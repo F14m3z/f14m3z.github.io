@@ -3,7 +3,7 @@ Ivor 'F14m3z' Weatherill is a game developer, musician and Onewheel rider from t
 
 ## Games
 
-|<img width="293" height="190" alt="Entheogen_KeyArt_Tiny" src="https://github.com/user-attachments/assets/0cf19dfd-4bf4-4d8f-a851-44f9be1a3fba" />|
+|[![Alt text for broken image link](images/Entheogen_KeyArt_Tiny.png)](ENTHEOGEN.md)|
 |-|
 |Entheogen is an Colony Simulation game<br/>in which you play as a god and perform<br/>miracles to help a tribe of humans survive.|
 

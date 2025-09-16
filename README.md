@@ -20,7 +20,7 @@ I have experience with GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite, 
 ## Games
 <table>
   <tr>
-    <td><img src="images/Entheogen_KeyArt_Tiny.png"  alt="Me on a Onewheel!" width = 293px height = 190px ></td>
+    <td><a href="https://ko-fi.com/entheogen"><img src="images/Entheogen_KeyArt_Tiny.png"  alt="Me on a Onewheel!" width = 293px height = 190px ></td>
   </tr>
   <tr>
     <td>Entheogen is an Colony Simulation game<br/>in which you play as a god and perform<br/>miracles to help a tribe of humans survive.</td>

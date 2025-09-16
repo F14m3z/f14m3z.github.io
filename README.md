@@ -1,13 +1,13 @@
 # Ivor 'F14m3z' Weatherill
 <table>
   <tr>
-    <td>Ivor 'F14m3z' Weatherill is a game developer, musician and Onewheel rider from the North-West of England. He has a background in progressive raiding in World of Warcraft, Quake speedrunning and level            design for Arena FPS games. Currently he works as an independent Game Developer and is developing an Colony Simulation game in GameMaker Studio 2.</td>
+    <td>Ivor 'F14m3z' Weatherill is a Game Developer, Musician and Onewheel Rider from the North-West of England. He has a background in progressive raiding in World of Warcraft, Quake speedrunning and level            design for Arena FPS games. Currently he works as an independent Game Developer and is developing an Colony Simulation game in GameMaker Studio 2.</td>
     <td><img src="images/f14m3z.png"  alt="Me on a Onewheel!" width = 1500px height = 2500px ></td>
   </tr> 
 </table>
 
 ## About Me
-I have experience in GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite and Trenchbroom.
+I have experience with GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite and Trenchbroom.
 
 ## Skills
 - Game Design

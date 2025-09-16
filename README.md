@@ -3,9 +3,7 @@ Ivor 'F14m3z' Weatherill is a game developer, musician and Onewheel rider from t
 
 ## Games
 
-### Entheogen
-
-<img width="880" height="570" alt="Entheogen_KeyArt_Small" src="https://github.com/user-attachments/assets/395d558f-1afa-4d58-bbc0-a25d56b006e4" />
+<img width="587" height="380" alt="Entheogen_KeyArt_Extra_Small" src="https://github.com/user-attachments/assets/3b0aa6c4-8189-4008-91c1-cc7458cc2a13" />
 
 ## About Me
 I have experience in GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite and Trenchbroom.

@@ -1,7 +1,7 @@
 # Ivor 'F14m3z' Weatherill
 <table style="width:100%">
   <tr>
-    <td style="width:60%">Game Developer, Musician and Onewheel Rider from the North-West of England. Background in progressive raiding (World of Warcraft), Quake speedrunning and level design for Arena FPS games. Currently working as an independent Game Developer, developing an Colony Simulation game in GameMaker Studio 2. Live streamer on Twitch in the Software & Game Development catagory. Plays drums at an intermediate level with a focus on improvisational jamming. Inspirations include Grateful Dead, Earthless, Phish and My Sleeping Karma. Takes an interest in fitness and health. Perfroms frequent strength training and eats a healthy balanced diet.</td>
+    <td style="width:60%">Game Developer, Musician and Onewheel Rider from the North-West of England. Background in progressive raiding (World of Warcraft), Quake speedrunning and level design for Arena FPS games. Currently working as an independent Game Developer, developing an Colony Simulation game in GameMaker Studio 2. Live streamer on Twitch in the Software & Game Development catagory. Play drums at an intermediate level with a focus on improvisational jamming. Inspirations include Grateful Dead, Earthless, Phish and My Sleeping Karma. Live a healthy lifestyle and perform frequent strength training and eat a healthy balanced diet.</td>
     <td align="center"><img src="images/f14m3z.png"  alt="Me on a Onewheel!" width = 300px height = 500px ></td>
   </tr> 
 </table>

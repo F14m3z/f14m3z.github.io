@@ -15,6 +15,8 @@ I have experience with GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite, 
 - Programming
 - Version Control
 - Quality Assurance
+- Communication
+- Documentation
 - Pixel Art
 
 ## Games

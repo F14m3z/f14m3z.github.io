@@ -18,14 +18,29 @@ I have experience with GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite, 
 - Communication
 - Documentation
 - Pixel Art
+- Drumming
 
 ## Games
 <table>
   <tr>
-    <td><a href="https://ko-fi.com/entheogen"><img src="images/Entheogen_KeyArt_Tiny.png" alt="Me on a Onewheel!" width=293px height=190px ></a></td>
+    <td><a href="https://ko-fi.com/entheogen"><img src="images/Entheogen_KeyArt_Tiny.png" alt="Entheogen" width=293px height=190px ></a></td>
   </tr>
   <tr>
     <td>Entheogen is an Colony Simulation game<br/>in which you play as a god and perform<br/>miracles to help a tribe of humans survive.</td>
+  </tr>
+</table>
+
+## Level Design
+<table>
+  <tr>
+    <td><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3111704209"><img src="images/CotD_Thumbnail.png" alt="Chapel of th Damned" width=293px height=190px ></a></td>
+    <td><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=670721026"><img src="images/Bastion_Thumbnail.png" alt="Bastion" width=293px height=190px ></a></td>
+    <td><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=620641838"><img src="images/Mausoleum_Thumbnail.png" alt="Mausoleum" width=293px height=190px ></a></td>
+  </tr>
+  <tr>
+    <td>Chapel of the Damned is a single player<br/>map for the hit Retro FPS game, Dusk.</td>
+    <td>Bastion is a 1v1/2v2 map for the Arena<br/>FPS game Reflex Arena.</td>
+    <td>Mausoleum is a 1v1 map for the Arena FPS<br/>Game Reflex Arena.</td>
   </tr>
 </table>
 

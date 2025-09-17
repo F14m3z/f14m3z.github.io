@@ -7,7 +7,7 @@
 </table>
 
 ## About Me
-I have experience with GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite, Trenchbroom, Logic, Repaer, Ableton and Pro Tools.
+I have experience with GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite, Trenchbroom, Logic, Reaper, Ableton and Pro Tools.
 
 ## Skills
 - Game Design

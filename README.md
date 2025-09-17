@@ -39,8 +39,8 @@ I have experience with GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite, 
   </tr>
   <tr>
     <td>Chapel of the Damned is a single player<br/>map for the hit Retro FPS game, Dusk.</td>
-    <td>Bastion is a 1v1/2v2 map for the Arena<br/>FPS game Reflex Arena.</td>
-    <td>Mausoleum is a 1v1 map for the Arena FPS<br/>Game Reflex Arena.</td>
+    <td>Bastion is a 1v1/2v2 map for the Arena<br/>FPS game, Reflex Arena.</td>
+    <td>Mausoleum is a 1v1 map for the Arena FPS<br/>game, Reflex Arena.</td>
   </tr>
 </table>
 

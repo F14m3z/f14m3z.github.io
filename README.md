@@ -20,7 +20,7 @@ I have experience with GameMaker Studio 2, GML, Unity, C#, Photoshop, Aseprite, 
 - Drumming
 - Pixel Art
 
-## Games
+## Game Development
 <table>
   <tr>
     <td><a href="https://ko-fi.com/entheogen"><img src="images/Entheogen_KeyArt_Tiny.png" alt="Entheogen" width=293px height=190px ></a></td>
